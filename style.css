@@ -41,7 +41,11 @@ font-size: 45px;
     text-align: center;
 }
 
+.Enrollment{
+    text-align: center;
+    width: 33vw;
+}
 h2{
     text-align: center;
     color: white;
-}
+    
