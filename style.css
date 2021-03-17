@@ -1,0 +1,48 @@
+.header{
+    padding: 20px;
+    background-color: purple;
+}
+.header h1{
+display: inline-block;
+font-size: 45px;
+}
+
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-size: 28px;
+    color: white;
+}
+.header nav ul li {
+    display: inline;
+    margin-left: 25px;
+}
+.main {
+    width: 100%;
+    margin-left: 20px;
+    background-color: royalblue;
+}
+.About-Me{
+    color: white;
+}
+.Howdy{
+    height: 700px;
+    width: 100%;
+    background-image: url("./images/Howdy.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.My-Students{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline;
+    color: white;
+}
+
+
+h2{
+    text-align: center;
+    color: white;
+}
